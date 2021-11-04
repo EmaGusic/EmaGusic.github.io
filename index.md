@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub
 
-You can use the [editor on GitHub](https://github.com/EmaGusic/EmaGusic.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can access my published books [on Amazon](https://www.amazon.co.uk/Emilia-Tarah-Roberts/e/B081Z7TG6Q/ref=dp_byline_cont_pop_book_1) if you wish to purchase any.
+If you would like to know more about my personal work, I also paint in my free time and you can visit on my [Universe of Paint Facebook profile] (https://www.facebook.com/universeofpaint.ltd)
 
 ### Markdown
 
