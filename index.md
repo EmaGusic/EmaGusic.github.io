@@ -15,8 +15,8 @@ My current book I am working on is Twisted Mind, it is a psychological thriller.
 
 ### Mostly Bought
 
-![Imprisoned By Blood](https://images-na.ssl-images-amazon.com/images/I/418OAAhPM+L._SX331_BO1,204,203,200_.jpg)
+![Imprisoned By Blood](https://images-na.ssl-images-amazon.com/images/I/418OAAhPM+L._SX331_BO1,204,203,200_.jpg) You can purchase it [on Amazon](https://www.amazon.co.uk/Imprisoned-Blood-Emilia-Tarah-Roberts-ebook/dp/B09J458B57/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contact me through my Instagram or on my email egusic@gmail.com 
