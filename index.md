@@ -15,7 +15,7 @@ My current book I am working on is Twisted Mind, it is a psychological thriller.
 
 ### Mostly Bought
 
-![Imprisoned By Blood](https://images-na.ssl-images-amazon.com/images/I/418OAAhPM+L._SX331_BO1,204,203,200_.jpg![image](https://user-images.githubusercontent.com/93666606/140731131-a9d84430-f2b9-48ff-8154-3850dd9e4909.png)
+![Imprisoned By Blood](https://images-na.ssl-images-amazon.com/images/I/418OAAhPM+L._SX331_BO1,204,203,200_.jpg)
 
 ### Support or Contact
 
