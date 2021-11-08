@@ -13,9 +13,9 @@ My current book I am working on is Twisted Mind, it is a psychological thriller.
 
 
 
-### Jekyll Themes
+### Mostly Bought
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmaGusic/EmaGusic.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Imprisoned By Blood](https://images-na.ssl-images-amazon.com/images/I/418OAAhPM+L._SX331_BO1,204,203,200_.jpg![image](https://user-images.githubusercontent.com/93666606/140731131-a9d84430-f2b9-48ff-8154-3850dd9e4909.png)
 
 ### Support or Contact
 
