@@ -3,29 +3,16 @@
 You can access my published books [on Amazon](https://www.amazon.co.uk/Emilia-Tarah-Roberts/e/B081Z7TG6Q/ref=dp_byline_cont_pop_book_1) if you wish to purchase any.
 If you would like to know more about my personal work, I also paint in my free time and you can visit [on Universe of Paint Facebook profile](https://www.facebook.com/universeofpaint.ltd)
 
-### List of my published works
+### Profiles where you can follow me 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Instagram profiles [on Universe of Paint Facebook profile](https://www.facebook.com/universeofpaint.ltd) and [on Emilia Tarah Roberts](https://www.instagram.com/emilia_tarah_roberts/) profile. You can also find me [on Facebook](https://www.facebook.com/emilyema.gusic) and [on Twitter](https://twitter.com/EmiliaRoberts99).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+My current book I am working on is Twisted Mind, it is a psychological thriller.
+![Twisted Mind](https://pbs.twimg.com/media/FDp_fLsXMAoz-sc?format=jpg&name=large![image](https://user-images.githubusercontent.com/93666606/140730555-e02dbb78-86be-42f3-95ef-da067396ac3c.png)
+)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
