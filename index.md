@@ -9,8 +9,7 @@ Instagram profiles [on Universe of Paint Facebook profile](https://www.facebook.
 
 
 My current book I am working on is Twisted Mind, it is a psychological thriller.
-![Twisted Mind](https://pbs.twimg.com/media/FDp_fLsXMAoz-sc?format=jpg&name=large![image](https://user-images.githubusercontent.com/93666606/140730555-e02dbb78-86be-42f3-95ef-da067396ac3c.png)
-)
+![Twisted mind](https://user-images.githubusercontent.com/93666606/140730555-e02dbb78-86be-42f3-95ef-da067396ac3c.png) 
 
 
 
