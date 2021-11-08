@@ -5,7 +5,7 @@ If you would like to know more about my personal work, I also paint in my free t
 
 ### Profiles where you can follow me 
 
-Instagram profiles [on Universe of Paint Facebook profile](https://www.facebook.com/universeofpaint.ltd) and [on Emilia Tarah Roberts](https://www.instagram.com/emilia_tarah_roberts/) profile. You can also find me [on Facebook](https://www.facebook.com/emilyema.gusic) and [on Twitter](https://twitter.com/EmiliaRoberts99).
+Instagram profile [on Emilia Tarah Roberts](https://www.instagram.com/emilia_tarah_roberts/). You can also find me [on Facebook](https://www.facebook.com/emilyema.gusic) and [on Twitter](https://twitter.com/EmiliaRoberts99).
 
 
 My current book I am working on is Twisted Mind, it is a psychological thriller.
@@ -19,4 +19,4 @@ My current book I am working on is Twisted Mind, it is a psychological thriller.
 
 ### Contact
 
-You can contact me through my Instagram or on my email egusic@gmail.com 
+You can contact me through my Instagram or [on my email](egusic@gmail.com)
